@@ -19,7 +19,7 @@ List<Map<String, dynamic>> hotel_list = [
   },
 ];
 
-List<Map<String,dynamic>> upcomming_flight_list = [
+List<Map<String,dynamic>> upcoming_flight_list = [
   {
     "from" : {
       "code" : "NYC",
